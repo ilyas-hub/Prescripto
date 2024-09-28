@@ -1,0 +1,33 @@
+# Node modules
+node_modules/
+npm-debug.log
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# Environment variables
+.env
+
+# Binaries
+*.out
+*.exe
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Coverage files
+coverage/
+
+# Build files
+dist/
+build/
+
+# Miscellaneous
+*.lock
+*.swp
+
+# Multer uploads
+uploads/
